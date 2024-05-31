@@ -1,0 +1,7 @@
+Visual Studio Code
+Extensão Python
+Extensão autoDocstring
+
+https://code.visualstudio.com/
+https://marketplace.visualstudio.com/items?itemName=ms-python.python
+https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring

@@ -1,0 +1,2 @@
+Clique aqui para baixar os Datasets
+https://storage.googleapis.com/xesque.rocketseat.dev/inputs/ignite/IA%20para%20Produtos/datasets_aula.zip

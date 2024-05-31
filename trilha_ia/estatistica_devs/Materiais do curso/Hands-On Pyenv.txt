@@ -1,0 +1,8 @@
+macOS/Linux: Pyenv
+Windows: Pyenv
+
+https://github.com/pyenv/pyenv
+https://github.com/pyenv-win/pyenv-win
+
+Pipenv
+https://pipenv.pypa.io/en/latest/
